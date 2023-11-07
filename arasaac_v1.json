@@ -1208,7 +1208,7 @@
                     "files": {
                         "type": "object"
                     },
-                    "id": {
+                    "idMaterial": {
                         "type": "integer"
                     },
                     "screenshots": {
